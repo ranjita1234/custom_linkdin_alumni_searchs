@@ -1,0 +1,5 @@
+target/
+.idea/
+*.iml
+.env
+application_1.properties
